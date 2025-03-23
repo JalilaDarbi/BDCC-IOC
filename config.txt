@@ -1,0 +1,2 @@
+j.darbi.dao.DaoImpl
+j.darbi.metier.MetierImpl
